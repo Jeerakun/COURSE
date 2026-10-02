@@ -1,0 +1,8 @@
+A quick update on my current work:
+
+* **COBOL documentation:** Reviewing the existing documents. Some are over 15 years old, so validation with the expert group is needed to confirm accuracy and identify updates.
+* **Audit – 5 October:** Preparing to demonstrate the HLD process and address potential audit questions. The VSME and OCR-as-a-Service HLDs have been shared for the discussion.
+* **BankingMod:** Reviewing the HLD and supporting documentation. We need to discuss how the file transfer works so the end-to-end flow is accurately documented.
+* **TechDocs and HLDs:** Continuing to review and update documentation, incorporating feedback and keeping it aligned with agreed designs.
+
+Please note that we may need to reschedule our catch-up meeting, as I’ll be attending training at that time.
